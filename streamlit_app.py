@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.title("rafel gavin")
+st.title("rafael gavin")
 st.write(
     "pemain sepak bola terbaik"
 )
